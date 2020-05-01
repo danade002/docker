@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          There is a balm in gileard to heal the sin sick soul
+         /learn react/i
         </a>
       </header>
     </div>
