@@ -1,0 +1,10 @@
+sudo: required
+
+services:
+  - docker
+
+before_install:
+  - docker build -t tonero1x/yanshx -f Dockerfile.dev .
+
+script:
+  - docker run -e CI=true tonero1x/yanshx npm run test
