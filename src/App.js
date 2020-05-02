@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         There is a balm in gileard to heal the sin sick soul x
+         There is a balm in gileard to heal the sin sick soul xi
         </a>
       </header>
     </div>
